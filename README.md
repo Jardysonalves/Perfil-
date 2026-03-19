@@ -14,7 +14,7 @@ Focado em entender a tecnologia na raiz. Gosto de realizar testes rigorosos, que
 ---
 
 ### 🛠️ CONHECIMENTOS EM EVOLUÇÃO
-Aprofundando no Pipeline de Renderização e Comunicação Low-Level 
+Movimentação Independente de FPS: A lógica do jogo deve se basear no tempo decorrido entre frames (delta time), não na taxa de frames fixa, para evitar movimentos lentos se o jogo travar
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vulkan-E1111C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
