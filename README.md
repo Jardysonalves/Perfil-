@@ -1,4 +1,4 @@
-# ⚡ JARDSON |
+# ⚡ JARDYSON |
 
 > **Sinceridade e lealdade. Se for mentira, prefiro o desligamento.**
 
