@@ -1,25 +1,37 @@
-⚡ JARDSON |
+# ⚡ JARDSON | 17y
 
-👤 PERFIL TÉCNICO :
-
-Focado em entender a tecnologia na raiz. Gosto de realizar testes, quebrar limites de software e validar teorias na prática através do hardware.
-
-- 🧬 Interesses: APIs Gráficas (Vulkan/DirectX), Arquitetura de Hardware e Otimização.
-- 🧪 Atividade: Testes de estresse, análise de gargalos e manipulação de drivers.
-- 🤝 Valores: Lealdade absoluta e papo reto.
+> **Sinceridade e lealdade. Se for mentira, prefiro o desligamento.**
 
 ---
 
-⚙️ FOCO EM RENDERIZAÇÃO : 
+### 👤 PERFIL TÉCNICO
+Focado em entender a tecnologia na raiz. Gosto de realizar testes rigorosos, quebrar limites de software e validar teorias de performance diretamente no hardware.
 
-- **Graphics Pipeline:** Estudo de Vertex/Fragment Shaders e Rasterização.
-- **Memory Management:** Alocação de VRAM e barramento de dados CPU-GPU.
-- **Low-Level Hooks:** Interceptação de chamadas de API para ganho de performance.
+- 🧬 **Interesses:** APIs Gráficas (Vulkan/DirectX), Arquitetura de Hardware e Otimização de Sistemas.
+- 🧪 **Atividade:** Debugging de frames, análise de gargalos (bottleneck) e manipulação de drivers.
+- 🤝 **Valores:** Lealdade absoluta e papo reto.
 
 ---
 
-🚀 MENTALIDADE :
+### 🛠️ CONHECIMENTOS EM EVOLUÇÃO
+_ Aprofundando no Pipeline de Renderização e Comunicação Low-Level _
 
-_ Se o hardware limita, o software contorna. _
+<p align="left">
+  <img src="https://img.shields.io/badge/Vulkan-E1111C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/GLSL-44CC11?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
+</p>
 
----**
+### ⚙️ FOCO EM RENDERIZAÇÃO & PERFORMANCE
+- **Graphics Pipeline:** Estudo de **Vertex & Fragment Shaders** e o processo de Rasterização.
+- **Memory Management:** Alocação de **VRAM**, controle de **Buffers** e otimização do barramento CPU-GPU.
+- **Draw Calls:** Minimização de chamadas de processamento para ganho real de FPS.
+- **Hooks:** Interceptação de camadas de API para bypass de limitações nativas.
+
+---
+
+### 🚀 MENTALIDADE
+_ "Se o hardware limita, o software contorna." _
+
+---
