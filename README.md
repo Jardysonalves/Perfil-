@@ -1,4 +1,4 @@
-# ⚡ JARDSON | 17y
+# ⚡ JARDSON |
 
 > **Sinceridade e lealdade. Se for mentira, prefiro o desligamento.**
 
@@ -14,7 +14,7 @@ Focado em entender a tecnologia na raiz. Gosto de realizar testes rigorosos, que
 ---
 
 ### 🛠️ CONHECIMENTOS EM EVOLUÇÃO
-_ Aprofundando no Pipeline de Renderização e Comunicação Low-Level _
+Aprofundando no Pipeline de Renderização e Comunicação Low-Level 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vulkan-E1111C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
@@ -32,6 +32,6 @@ _ Aprofundando no Pipeline de Renderização e Comunicação Low-Level _
 ---
 
 ### 🚀 MENTALIDADE
-_ "Se o hardware limita, o software contorna." _
+Se o hardware limita, o software contorna.
 
 ---
