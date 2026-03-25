@@ -1,7 +1,4 @@
-# ⚡ JARDYSON |
-
-> **Sinceridade e lealdade. Se for mentira, prefiro o desligamento.**
-
+# ⚡ JARDYSON 
 ---
 
 ### 👤 PERFIL TÉCNICO
@@ -9,7 +6,6 @@ Focado em entender a tecnologia na raiz. Gosto de realizar testes rigorosos, que
 
 - 🧬 **Interesses:** APIs Gráficas (Vulkan/DirectX), Arquitetura de Hardware e Otimização de Sistemas.
 - 🧪 **Atividade:** Debugging de frames, análise de gargalos (bottleneck) e manipulação de drivers.
-- 🤝 **Valores:** Lealdade absoluta e papo reto.
 
 ---
 
